@@ -1,0 +1,90 @@
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\appsettings.Development.json
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\appsettings.json
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.staticwebassets.runtime.json
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.exe
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.deps.json
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.runtimeconfig.json
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.dll
+D:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.pdb
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfoInputs.cache
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfo.cs
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.csproj.CoreCompileInputs.cache
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.MvcApplicationPartsAssemblyInfo.cache
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cache
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cs
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.SEBBYSNAP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.build.SEBBYSNAP.props
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SEBBYSNAP.props
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SEBBYSNAP.props
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\bundle\SEBBYSNAP.styles.css
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\projectbundle\SEBBYSNAP.bundle.scp.css
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.dll
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\refint\SEBBYSNAP.dll
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.pdb
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.genruntimeconfig.cache
+D:\Ass301\SEBBYSNAP\obj\Debug\net8.0\ref\SEBBYSNAP.dll
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\appsettings.Development.json
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\appsettings.json
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.staticwebassets.runtime.json
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.exe
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.deps.json
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.runtimeconfig.json
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.dll
+E:\Ass301\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.pdb
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfoInputs.cache
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfo.cs
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.csproj.CoreCompileInputs.cache
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.MvcApplicationPartsAssemblyInfo.cache
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cache
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cs
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.build.json
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.development.json
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.SEBBYSNAP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.build.SEBBYSNAP.props
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SEBBYSNAP.props
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SEBBYSNAP.props
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\bundle\SEBBYSNAP.styles.css
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\scopedcss\projectbundle\SEBBYSNAP.bundle.scp.css
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.dll
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\refint\SEBBYSNAP.dll
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.pdb
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.genruntimeconfig.cache
+E:\Ass301\SEBBYSNAP\obj\Debug\net8.0\ref\SEBBYSNAP.dll
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\appsettings.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.staticwebassets.runtime.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.exe
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.deps.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.runtimeconfig.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.dll
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\bin\Debug\net8.0\SEBBYSNAP.pdb
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfoInputs.cache
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.AssemblyInfo.cs
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.csproj.CoreCompileInputs.cache
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cache
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.RazorAssemblyInfo.cs
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.SEBBYSNAP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.build.SEBBYSNAP.props
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SEBBYSNAP.props
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SEBBYSNAP.props
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\scopedcss\bundle\SEBBYSNAP.styles.css
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\scopedcss\projectbundle\SEBBYSNAP.bundle.scp.css
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.dll
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\refint\SEBBYSNAP.dll
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.pdb
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\SEBBYSNAP.genruntimeconfig.cache
+C:\Users\Mvuyisi Mtwa\Desktop\projects\SEBBYSNAP\obj\Debug\net8.0\ref\SEBBYSNAP.dll
